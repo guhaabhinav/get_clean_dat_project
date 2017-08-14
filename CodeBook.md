@@ -7,7 +7,7 @@ The acronyms pertain to them as such,
 acc - accelerometer, gyro: gyroscope, std - standard deviation, etc, to
 list but a few.
 
-Frome the original dataset:
+From the original dataset:
 "t" - has been changed to "time" to represent the time domain readings.
 "f" - has been changed to "frequency" for frequency doming readings. 
 
